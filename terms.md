@@ -16,3 +16,6 @@
 + Cash Flow
 
 The Income Statement connects the beginning and ending balance sheets.
+
+## Chapter 3
++ Retained Earnings
